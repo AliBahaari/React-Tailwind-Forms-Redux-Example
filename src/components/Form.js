@@ -53,7 +53,7 @@ function Form(props) {
                     </div>
                 </div>
 
-                <button className="bg-blue-700 px-10 py-4 text-white font-bold">
+                <button className="bg-blue-700 px-10 py-4 text-white font-bold hover:bg-blue-500">
                     Submit
                 </button>
             </form>
