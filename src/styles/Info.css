@@ -1,0 +1,7 @@
+.info > div {
+    width: 30%;
+    border: 1px dashed #DDD;
+    text-align: center;
+    padding: 20px;
+    margin: 40px auto;
+}
